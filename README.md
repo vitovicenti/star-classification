@@ -10,3 +10,6 @@ strengths. This approach has been useful to perform data exploration, data prepa
 and machine learning classification, testing many state of the art machine-learning 
 models, exploiting the data structure and particularities that Spark has to offer, 
 following the CRISP-DM methodology.
+
+📚 Dataset: [SDSS17 Stellar Classification Dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
+
